@@ -1,6 +1,7 @@
 # Jackson Nordberg's Portfolio
 ## Current Projects
 stock-portfolio-sim: Project for MSSA, a simulated stock portfolio manager for practicing investing in the stock market
+
 More to come!
 
 

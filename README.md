@@ -1,6 +1,6 @@
 # Jackson Nordberg's Portfolio
 ## Current Projects
-<b>stock-portfolio-sim:</b> Project for MSSA, a simulated stock portfolio manager for practicing investing in the stock market
+[stock-portfolio-sim:](https://github.com/thejacksonian56/stock-portfolio-sim) Project for MSSA, a simulated stock portfolio manager for practicing investing in the stock market
 
 More to come!
 ## Contact: jackson.h.nordberg@outlook.com

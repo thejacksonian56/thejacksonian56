@@ -1,8 +1,8 @@
 # Jackson Nordberg's Portfolio
-## Current Projects
-[stock-portfolio-sim:](https://github.com/thejacksonian56/stock-portfolio-sim) A simulated stock portfolio manager for practicing investing in the stock market
-
+## Projects
 [wav_slowverb](https://github.com/thejacksonian56/wav_slowverb) A .WAV file modifier that allows the user to slow down the speed (WIP: and add reverb to the audio)
+
+[stock-portfolio-sim:](https://github.com/thejacksonian56/stock-portfolio-sim) A simulated stock portfolio manager for practicing investing in the stock market
 ##
 More to come!
 ## Contact: jackson.h.nordberg@outlook.com

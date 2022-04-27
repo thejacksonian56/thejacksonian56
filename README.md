@@ -1,5 +1,7 @@
 # Jackson Nordberg's Portfolio
 ## Projects
+[doodle-tower-defense](https://github.com/thejacksonian56/doodle-tower-defense) A basic tower defense game concept, WIP
+
 [wav_slowverb](https://github.com/thejacksonian56/wav_slowverb) A .WAV file modifier that allows the user to slow down the speed
 
 [stock-portfolio-sim:](https://github.com/thejacksonian56/stock-portfolio-sim) A simulated stock portfolio manager for practicing investing in the stock market
